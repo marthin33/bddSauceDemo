@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "A4E80ECC7BC62C94747839C932F9F5AD",
+  "keywordClasses": [
+    {
+      "name": "login_empty.LoginEmpty",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}
