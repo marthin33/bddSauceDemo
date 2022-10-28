@@ -1,5 +1,8 @@
 # bddSauceDemo
 
+Link Test Case Manual : https://docs.google.com/spreadsheets/d/1fwltuUeLuszmP3kA6GKKR_8hw4sEOCeq8CD3tQ2h9VQ/edit?usp=sharing
+
+
 Feature: Login feature <br />
 Scenario Outline: Test login with empty data<br />
 
